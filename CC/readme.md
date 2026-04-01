@@ -13,7 +13,7 @@ s0:背景 S1：使用入门 S2：架构  S3： 哲学 特性 S4： 逆向 源码
     链接：https://github.com/sanbuphy/claude-code-source-code
     （docs/ 多语种背景报告）
   - https://learn.shareai.run/en/  
-  学习CC from 网页
+  学习CC from 网页  
 收获：理解 System Prompt 模块化、Agent OS 本质等核心概念。
  阶段 1：使用入门（2–4 小时）
 目标：快速上手 Claude Code CLI，掌握日常工作流。
