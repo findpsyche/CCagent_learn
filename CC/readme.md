@@ -122,7 +122,8 @@ s0:背景 S1：使用入门 S2：架构  S3： 哲学 特性 S4： 逆向 源码
   2. FlorianBruniaux/claude-code-ultimate-guide
      链接：https://github.com/FlorianBruniaux/claude-code-ultimate-guide
      （security-hardening + MCP 生态）
-
+  3.https://x.com/trq212/status/2033949937936085378
+      从CC上学习到的SKILLS优化
 收获：掌握性能优化、插件生态、威胁防御。
 
 
